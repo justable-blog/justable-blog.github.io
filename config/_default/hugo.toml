@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://jssong84.github.io/"
+baseURL = "https://justable-blog.github.io/"
 defaultContentLanguage = "ko"
 disableLanguages = [] #to allow translation work requiring shipping to production
 
