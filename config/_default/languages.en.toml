@@ -1,0 +1,39 @@
+languageCode = "en"
+languageName = "English"
+weight = 2
+title = "jssong84 | Notion, ESP32"
+
+[params]
+  name = "jssong84"
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo.001.png"
+  secondaryLogo = "img/logo@0.25x.png"
+  description = "jssong84 | Notion, ESP32"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "jssong84"
+  image = "img/profile.png"
+  headline = "See you at the zenith of a dream."
+  bio = "See you at the zenith of a dream."
+  links = [
+    { instagram = "https://www.instagram.com/jssong84/" },
+    { linkedin = "https://www.linkedin.com/in/jssong84/" },
+    { youtube = "https://www.youtube.com/@carstaurant" },
+    { threads = "https://www.threads.com/@jssong84" },
+    { email = "mailto:jssong.zenith@gmail.com" },
+
+    #{ rss = "https://n9o.xyz/index.xml" },    
+    #{ x-twitter = "https://twitter.com/nunocoracao" },
+    #{ github = "https://github.com/nunocoracao" },
+    #{ medium = "https://medium.com/@nunocoracao" },
+    #{ hackernews = "https://news.ycombinator.com/user?id=nunocoracao"},
+    #{ mastodon = "https://masto.ai/@nunocoracao" },
+    #{ goodreads = "http://goodreads.com/nunocoracao" },
+    #{ reddit = "https://reddit.com/user/nunoheart" },
+    #{ telegram = "https://t.me/nunocoracao" },
+    #{ music = "/music" },
+  ]
